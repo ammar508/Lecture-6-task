@@ -29,6 +29,12 @@ single HTML file.
 
 
 2nd prompt: Grade this page out of 10 for design and readability, then improve it.
+
+
+
 3rd promtp: Add this image in my website 
+
+
+
 4rth prompt: “Grade this page out of 10 for design and readability, then improve it.”
 This time remove image my image and write the text in center
